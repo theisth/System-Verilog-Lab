@@ -1,0 +1,511 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vand_gate
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1683710595
+!i10b 1
+!s100 ;AfkbO_>b_eUjKc1WFiRc1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IHUMAn?WM=GkUMT3KO95N[3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dC:/modelsim_svs
+w1683709876
+Z4 8C:/modelsim_svs/lab3_g14_p2.sv
+Z5 FC:/modelsim_svs/lab3_g14_p2.sv
+!i122 267
+L0 13 8
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1683710595.000000
+Z7 !s107 C:/modelsim_svs/lab3_g14_p2.sv|
+Z8 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab3_g14_p2.sv|
+!i113 1
+Z9 o-work work -sv
+Z10 tCvgOpt 0
+vdec3x8
+R0
+Z11 !s110 1684089265
+!i10b 1
+!s100 Ua6Le05[aJmnA[BiInA:12
+R1
+IVQhIai=AU5b^IJVQ10a113
+R2
+S1
+R3
+Z12 w1684089205
+Z13 8C:/modelsim_svs/lab3_g14_p4.sv
+Z14 FC:/modelsim_svs/lab3_g14_p4.sv
+!i122 1181
+L0 20 8
+R6
+r1
+!s85 0
+31
+Z15 !s108 1684089264.000000
+Z16 !s107 C:/modelsim_svs/lab3_g14_p4.sv|
+Z17 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab3_g14_p4.sv|
+!i113 1
+R9
+R10
+vdec4x16
+R0
+R11
+!i10b 1
+!s100 JB[NfV;?5RDTW1<EXgdXC1
+R1
+IkVW=VaR0O<c307?YhPM4l0
+R2
+S1
+R3
+R12
+R13
+R14
+!i122 1181
+L0 30 16
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R9
+R10
+vdec8x1
+R0
+!s110 1683795530
+!i10b 1
+!s100 P>D`4PC@ac41NK2GAjdD>0
+R1
+IjbnTe;:Ti4ID0XGAU^>6H0
+R2
+S1
+R3
+w1683795524
+R13
+R14
+!i122 481
+L0 15 8
+R6
+r1
+!s85 0
+31
+!s108 1683795530.000000
+R16
+R17
+!i113 1
+R9
+R10
+vf1
+R0
+R11
+!i10b 1
+!s100 eIBZBgE;aYHQ`^Wd9FF[c2
+R1
+I7MD[M4m8YfGcbnPC=lLg41
+R2
+S1
+R3
+Z18 w1684089245
+Z19 8C:/modelsim_svs/lab3_g14_p5.sv
+Z20 FC:/modelsim_svs/lab3_g14_p5.sv
+!i122 1183
+L0 76 8
+R6
+r1
+!s85 0
+31
+Z21 !s108 1684089265.000000
+Z22 !s107 C:/modelsim_svs/lab3_g14_p5.sv|
+Z23 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab3_g14_p5.sv|
+!i113 1
+R9
+R10
+vf2
+R0
+R11
+!i10b 1
+!s100 f^U`@0=TzPKoCb9CG29<Q3
+R1
+IKMZVCWAg5Z301OmEdj4la2
+R2
+S1
+R3
+R18
+R19
+R20
+!i122 1183
+L0 85 8
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R9
+R10
+vgates_mux2_1
+R0
+R11
+!i10b 1
+!s100 Y6bOJQG;A2SN6K=J[4aSl2
+R1
+I;`@CkfA_zekEW^>fKGMkL3
+R2
+S1
+R3
+R18
+R19
+R20
+!i122 1183
+L0 19 18
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R9
+R10
+vlab3_g14_p1
+R0
+Z24 !s110 1684089263
+!i10b 1
+!s100 U9^d>kE`ePcI_QF]B2=U43
+R1
+I>[eOn0RY6<jIY:j=jc6YQ1
+R2
+S1
+R3
+w1684089123
+8C:/modelsim_svs/lab3_g14_p1.sv
+FC:/modelsim_svs/lab3_g14_p1.sv
+!i122 1175
+L0 8 11
+R6
+r1
+!s85 0
+31
+Z25 !s108 1684089263.000000
+!s107 C:/modelsim_svs/lab3_g14_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab3_g14_p1.sv|
+!i113 1
+R9
+R10
+vlab3_g14_p2
+R0
+R24
+!i10b 1
+!s100 HgA4]ndIlBmzDC`hZL<G40
+R1
+IT;S=P11F4z^iK^89KBV^F1
+R2
+S1
+R3
+w1684089152
+R4
+R5
+!i122 1177
+Z26 L0 7 10
+R6
+r1
+!s85 0
+31
+R25
+R7
+R8
+!i113 1
+R9
+R10
+vlab3_g14_p3
+R0
+Z27 !s110 1684089264
+!i10b 1
+!s100 B`5z;1c4Ue3M6HeLHlR6]2
+R1
+I11zSiEF]F[30S6Q18GC]71
+R2
+S1
+R3
+w1684089178
+8C:/modelsim_svs/lab3_g14_p3.sv
+FC:/modelsim_svs/lab3_g14_p3.sv
+!i122 1179
+L0 7 12
+R6
+r1
+!s85 0
+31
+R15
+!s107 C:/modelsim_svs/lab3_g14_p3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab3_g14_p3.sv|
+!i113 1
+R9
+R10
+vlab3_g14_p4
+R0
+R11
+!i10b 1
+!s100 YdbSLETS`NX_TL3ZTc6B]0
+R1
+IngO4F_h]d6Nc8kMXa?f]R0
+R2
+S1
+R3
+R12
+R13
+R14
+!i122 1181
+L0 6 12
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R9
+R10
+vlab3_g14_p5
+R0
+R11
+!i10b 1
+!s100 P1:m]4zCOXgbN8_<JHC2G3
+R1
+ImMYmNG8PVI:N[m4>QZeT]3
+R2
+S1
+R3
+R18
+R19
+R20
+!i122 1183
+R26
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R9
+R10
+vmux16x1
+R0
+R11
+!i10b 1
+!s100 lEBL_RD@WO:8?dR9alnK11
+R1
+IFSe1I<PL5FS=U?J3]4Mdn2
+R2
+S1
+R3
+R18
+R19
+R20
+!i122 1183
+L0 64 10
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R9
+R10
+vmux4x1
+R0
+R11
+!i10b 1
+!s100 zi;;KY0A[=W9?Dl60haK>3
+R1
+IEU=LW48bJW:TngASVSNMQ3
+R2
+S1
+R3
+R18
+R19
+R20
+!i122 1183
+L0 40 10
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R9
+R10
+vmux8x1
+R0
+R11
+!i10b 1
+!s100 dlBiczee=CKDm_oWj2_:70
+R1
+IOZ;l<L9_eK^XalokoDCDk0
+R2
+S1
+R3
+R18
+R19
+R20
+!i122 1183
+L0 52 10
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R9
+R10
+vtb_lab3_g14_p1
+R0
+R24
+!i10b 1
+!s100 AYLD0=Obdlg_][VIPiP1P2
+R1
+IJkSLz:TBiW`O4T:6e2]TK2
+R2
+S1
+R3
+w1684089140
+8C:/modelsim_svs/tb_lab3_g14_p1.sv
+FC:/modelsim_svs/tb_lab3_g14_p1.sv
+!i122 1176
+L0 8 20
+R6
+r1
+!s85 0
+31
+R25
+!s107 C:/modelsim_svs/tb_lab3_g14_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/tb_lab3_g14_p1.sv|
+!i113 1
+R9
+R10
+vtb_lab3_g14_p2
+R0
+R27
+!i10b 1
+!s100 lOm5Y=Z^CNJ=1cHPM7<Tj0
+R1
+IgXDFoF4=giJQD=Gb:f5SW1
+R2
+S1
+R3
+w1684089167
+8C:/modelsim_svs/tb_lab3_g14_p2.sv
+FC:/modelsim_svs/tb_lab3_g14_p2.sv
+!i122 1178
+L0 8 76
+R6
+r1
+!s85 0
+31
+R15
+!s107 C:/modelsim_svs/tb_lab3_g14_p2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/tb_lab3_g14_p2.sv|
+!i113 1
+R9
+R10
+vtb_lab3_g14_p3
+R0
+R27
+!i10b 1
+!s100 IDKPJ`IJANL@nl3kJ8IQ63
+R1
+I>V51O5SIc]MJNSQ6m[XaR3
+R2
+S1
+R3
+w1684089191
+8C:/modelsim_svs/tb_lab3_g14_p3.sv
+FC:/modelsim_svs/tb_lab3_g14_p3.sv
+!i122 1180
+L0 8 15
+R6
+r1
+!s85 0
+31
+R15
+!s107 C:/modelsim_svs/tb_lab3_g14_p3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/tb_lab3_g14_p3.sv|
+!i113 1
+R9
+R10
+vtb_lab3_g14_p4
+R0
+R11
+!i10b 1
+!s100 AE<O>QKbN:DD?eCSlEmda0
+R1
+IE<GeU=UCWZZgEWkC:FU]Z1
+R2
+S1
+R3
+w1684089227
+8C:/modelsim_svs/tb_lab3_g14_p4.sv
+FC:/modelsim_svs/tb_lab3_g14_p4.sv
+!i122 1182
+L0 8 35
+R6
+r1
+!s85 0
+31
+R21
+!s107 C:/modelsim_svs/tb_lab3_g14_p4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/tb_lab3_g14_p4.sv|
+!i113 1
+R9
+R10
+vtb_lab3_g14_p5
+R0
+R11
+!i10b 1
+!s100 6_j[Z5X23>Z0`Vh7PSG=]2
+R1
+IMN4Sh7ifTI]LFW64MKXHS0
+R2
+S1
+R3
+w1684089258
+8C:/modelsim_svs/tb_lab3_g14_p5.sv
+FC:/modelsim_svs/tb_lab3_g14_p5.sv
+!i122 1184
+L0 7 20
+R6
+r1
+!s85 0
+31
+R21
+!s107 C:/modelsim_svs/tb_lab3_g14_p5.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/tb_lab3_g14_p5.sv|
+!i113 1
+R9
+R10

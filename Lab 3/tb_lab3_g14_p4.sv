@@ -1,0 +1,42 @@
+/*tb_lab3_g14_p4.sv
+Hazirlayanlar:
+Ahmet Ali Tilkicioglu
+Muhammed Furkan Sarikaya
+*/
+
+`timescale 1ns/1ps
+module tb_lab3_g14_p4();
+logic [1:0] a;
+logic e;
+logic [7:0] y_dec8;
+logic [3:0] a_4;
+logic [15:0] y_dec16;
+
+/*
+dec3x8 mut0(a,e,y_dec8);
+initial begin
+	e = 0;	a[1] = 0;	a[0] = 0; 	#10
+	a[0] = 1;	#10
+	a[0] = 0;	a[1] = 1;	#10
+	a[0] = 1;	#10
+	e = 1;	a[0] = 0;	a[1] = 0;	#10
+	a[0] = 1;	#10
+	a[0] = 0;	a[1] = 1;	#10
+	a[0] = 1;	#10
+	$stop;
+end
+
+endmodule
+*/
+
+
+dec4x16	mut0(a_4,e,y_dec16);
+initial begin
+	for (int i = 0; i < 16; i++) begin
+		a_4 = i; e = 0;
+		#10;
+	end
+	$stop;
+end 
+
+endmodule

@@ -1,0 +1,24 @@
+`timescale 1ns/1ps
+module tb_lab3_g14_p5();
+logic [15:0] bits = 16'b1011100010001010;
+logic [15:0] bits_2 = 16'b1100001011111111;
+logic [3:0] sel;
+logic f1_y;
+logic f2_y;
+
+
+f1 mut0(bits,sel,f1_y);
+f2 dut0(bits_2,sel,f2_y);
+
+initial begin
+	for (int i = 0; i < 16; i++) begin
+		sel = i;
+		#10;
+	end
+	$stop;
+end 
+
+endmodule
+	
+
+
