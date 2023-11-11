@@ -1,0 +1,136 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modelsim_svs/lab1
+vlab2_g14_p1
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1683448055
+!i10b 1
+!s100 gBhaUjnPFRQfkzWPYiZ9m1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@AOBYBTDeYWPa`;S>l:Oi1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/modelsim_svs/lab2
+w1683448052
+8C:/modelsim_svs/lab2/lab2_g14_p1.sv
+FC:/modelsim_svs/lab2/lab2_g14_p1.sv
+!i122 147
+L0 11 18
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1683448055.000000
+!s107 C:/modelsim_svs/lab2/lab2_g14_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab2/lab2_g14_p1.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vlab2_g14_p2
+R0
+R1
+!i10b 1
+!s100 ;hJCPiUdA`_1ibg]W?N9_1
+R2
+IPWkbHAIgijSk2IJ`P]JRU0
+R3
+S1
+R4
+w1683156783
+Z9 8C:/modelsim_svs/lab2/lab2_g14_p2.sv
+Z10 FC:/modelsim_svs/lab2/lab2_g14_p2.sv
+!i122 149
+L0 10 16
+R5
+r1
+!s85 0
+31
+R6
+Z11 !s107 C:/modelsim_svs/lab2/lab2_g14_p2.sv|
+Z12 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab2/lab2_g14_p2.sv|
+!i113 1
+R7
+R8
+vlab_g14_p2
+R0
+!s110 1683140933
+!i10b 1
+!s100 d4Pf[:bcS51OJ<<ZM<@R92
+R2
+IMB=blG]Fa3o=<>Cl5i>D91
+R3
+S1
+R4
+w1683140175
+R9
+R10
+!i122 101
+L0 2 13
+R5
+r1
+!s85 0
+31
+!s108 1683140933.000000
+R11
+R12
+!i113 1
+R7
+R8
+vtb_lab2_g14_p1
+R0
+R1
+!i10b 1
+!s100 U_^8^bd2emDVU=Mj39Okl1
+R2
+IVBhd@c3868RQKD`abNiQW0
+R3
+S1
+R4
+w1683271290
+8C:/modelsim_svs/lab2/tb_lab2_g14_p1.sv
+FC:/modelsim_svs/lab2/tb_lab2_g14_p1.sv
+!i122 148
+Z13 L0 10 28
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/modelsim_svs/lab2/tb_lab2_g14_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab2/tb_lab2_g14_p1.sv|
+!i113 1
+R7
+R8
+vtb_lab2_g14_p2
+R0
+!s110 1683448056
+!i10b 1
+!s100 _]T13OK9YnK2SYzohHk:J2
+R2
+IjAkiL?2df33Robahi4WfG1
+R3
+S1
+R4
+w1683156803
+8C:/modelsim_svs/lab2/tb_lab2_g14_p2.sv
+FC:/modelsim_svs/lab2/tb_lab2_g14_p2.sv
+!i122 150
+R13
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/modelsim_svs/lab2/tb_lab2_g14_p2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab2/tb_lab2_g14_p2.sv|
+!i113 1
+R7
+R8
