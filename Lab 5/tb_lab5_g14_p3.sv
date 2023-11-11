@@ -1,0 +1,54 @@
+/*tb_lab5_g14_p3.sv
+Hazirliyanlar:
+Ahmet Ali Tilkicioglu
+Muhammed Furkan Sarikaya
+*/
+module tb_lab5_g14_p3();
+
+logic clk;
+logic reset;
+logic A;
+logic Y;
+
+fsm uut (
+    .clk(clk),
+    .reset(reset),
+    .A(A),
+    .Y(Y)
+);
+
+always begin
+    #5 clk = ~clk;
+end
+
+initial begin
+    clk = 1;
+    reset = 1;
+    A = 0;
+
+    #10 reset = 0;
+
+
+    #10 A = 1;
+    #10 A = 0;
+    #10 A = 1;
+    #10 A = 0;
+    #10 A = 1;
+    #10 A = 1;
+    #10 A = 1;
+    #10 A = 1;
+    #10 A = 1;
+    #10 A = 0;
+    #10 A = 0;
+    #10 A = 0;
+    #10 A = 0;
+    #10 A = 0;
+    #10 A = 1;
+    #10 A = 1;
+    #10 A = 0;
+    #10 A = 0;
+
+	 $stop;
+end
+
+endmodule

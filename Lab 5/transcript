@@ -1,0 +1,48 @@
+# Compile of lab5_g14_p1.sv was successful.
+# Compile of tb_lab5_g14_p1.sv was successful.
+# Compile of lab5_g14_p2.sv was successful.
+# Compile of tb_lab5_g14_p2.sv was successful.
+# Compile of lab5_g14_p3.sv was successful.
+# Compile of tb_lab5_g14_p3.sv was successful.
+# Compile of lab5_g14_p4.sv was successful.
+# Compile of tb_lab5_g14_p4.sv was successful.
+# Compile of hw3.sv was successful.
+# Compile of tb_hw3.sv was successful.
+# 10 compiles, 0 failed with no errors.
+vsim work.tb_hw3
+# vsim work.tb_hw3 
+# Start time: 23:38:22 on Jun 12,2023
+# Loading sv_std.std
+# Loading work.tb_hw3
+# Loading work.hw3
+add wave -position insertpoint sim:/tb_hw3/*
+run -all
+# ** Note: $stop    : C:/modelsim_svs/lab5/tb_hw3.sv(38)
+#    Time: 200 ns  Iteration: 0  Instance: /tb_hw3
+# Break in Module tb_hw3 at C:/modelsim_svs/lab5/tb_hw3.sv line 38
+# Compile of lab5_g14_p1.sv was successful.
+# Compile of tb_lab5_g14_p1.sv was successful.
+# Compile of lab5_g14_p2.sv was successful.
+# Compile of tb_lab5_g14_p2.sv was successful.
+# Compile of lab5_g14_p3.sv was successful.
+# Compile of tb_lab5_g14_p3.sv was successful.
+# Compile of lab5_g14_p4.sv was successful.
+# Compile of tb_lab5_g14_p4.sv was successful.
+# Compile of hw3.sv was successful.
+# Compile of tb_hw3.sv was successful.
+# 10 compiles, 0 failed with no errors.
+vsim work.tb_lab5_g14_p4
+# End time: 23:40:18 on Jun 12,2023, Elapsed time: 0:01:56
+# Errors: 0, Warnings: 3
+# vsim work.tb_lab5_g14_p4 
+# Start time: 23:40:18 on Jun 12,2023
+# Loading sv_std.std
+# Loading work.tb_lab5_g14_p4
+# Loading work.p4
+add wave -position insertpoint sim:/tb_lab5_g14_p4/*
+run -all
+# ** Note: $stop    : C:/modelsim_svs/lab5/tb_lab5_g14_p4.sv(34)
+#    Time: 2 us  Iteration: 0  Instance: /tb_lab5_g14_p4
+# Break in Module tb_lab5_g14_p4 at C:/modelsim_svs/lab5/tb_lab5_g14_p4.sv line 34
+# End time: 23:41:58 on Jun 12,2023, Elapsed time: 0:01:40
+# Errors: 0, Warnings: 1

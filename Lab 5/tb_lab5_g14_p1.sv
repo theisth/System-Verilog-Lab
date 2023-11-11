@@ -1,0 +1,39 @@
+/*tb_lab5_g14_p1.sv
+Hazirliyanlar:
+Ahmet Ali Tilkicioglu
+Muhammed Furkan Sarikaya
+*/
+`timescale 1ns/1ps
+module tb_lab5_g14_p1();
+
+logic clk;
+logic reset;
+logic en;
+logic [4:0] psc;
+logic tick;
+
+counter dut (
+    .clk(clk),
+    .reset(reset),
+    .en(en),
+    .psc(psc),
+    .tick(tick)
+);
+
+always begin
+    #5 clk = ~clk;
+end
+
+initial begin
+    clk = 0;
+    reset = 0;
+    en = 0;
+    psc = 5'd10;
+
+    #10 reset = 1;
+    #10 en = 1;
+
+    #1000 $stop;
+end
+
+endmodule

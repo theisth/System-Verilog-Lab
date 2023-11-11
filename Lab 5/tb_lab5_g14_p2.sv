@@ -1,0 +1,43 @@
+/*tb_lab5_g14_p2.sv
+Hazirliyanlar:
+Ahmet Ali Tilkicioglu
+Muhammed Furkan Sarikaya
+*/
+module tb_lab4_g14_p2();
+
+logic clk;
+logic reset;
+logic en;
+logic [4:0] psc;
+logic [15:0] reload;
+logic [15:0] cnt;
+logic bitti;
+
+p2 uut (
+    .clk(clk),
+    .reset(reset),
+    .en(en),
+    .psc(psc),
+    .reload(reload),
+    .cnt(cnt),
+    .bitti(bitti)
+);
+
+always begin
+    #5 clk = ~clk;
+end
+
+initial begin
+    clk = 0;
+    reset = 0;
+    en = 0;
+    psc = 5'd5;
+    reload = 16'd16;
+
+    #10 reset = 1;
+    #10 en = 1;
+
+    #1000 $finish;
+end
+
+endmodule
