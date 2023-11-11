@@ -1,0 +1,336 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vall_of_them
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1685103667
+!i10b 1
+!s100 lZA2nKc]=zM1c5O9>5_VO1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ISeYM]@;]D;b^e=Z^Wj6na2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/modelsim_svs/lab4
+Z5 w1685044431
+Z6 8C:/modelsim_svs/lab4/lab4_g14_p1.sv
+Z7 FC:/modelsim_svs/lab4/lab4_g14_p1.sv
+!i122 296
+L0 31 13
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1685103667.000000
+Z10 !s107 C:/modelsim_svs/lab4/lab4_g14_p1.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab4/lab4_g14_p1.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+vd_latch
+R0
+R1
+!i10b 1
+!s100 oKh420MA?mIkOzn;fGiSM2
+R2
+IJU4HWflZ>KfEo=aE:Z2o80
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 296
+L0 7 11
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vfull_adder
+R0
+Z14 !s110 1685103666
+!i10b 1
+!s100 5YIn0`Mf?KT^SSHb]>j2j0
+R2
+Ii2ZfmW;??T9Ch0VLnVX@d3
+R3
+S1
+R4
+Z15 w1685044430
+Z16 8C:/modelsim_svs/lab4/lab4_g14_p2.sv
+Z17 FC:/modelsim_svs/lab4/lab4_g14_p2.sv
+!i122 292
+L0 21 13
+R8
+r1
+!s85 0
+31
+Z18 !s108 1685103666.000000
+Z19 !s107 C:/modelsim_svs/lab4/lab4_g14_p2.sv|
+Z20 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab4/lab4_g14_p2.sv|
+!i113 1
+R12
+R13
+vhalf_adder
+R0
+R14
+!i10b 1
+!s100 41Y8PVQmdLSh2;T87Y>X23
+R2
+I>kzB=g3aP8fRWZmfW=4lA0
+R3
+S1
+R4
+R15
+R16
+R17
+!i122 292
+L0 8 11
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R12
+R13
+vlab4_g14_p2
+R0
+!s110 1684874904
+!i10b 1
+!s100 4nb4A2U0H08YI^[ZFiPVX1
+R2
+IobC3;jm2L^Yo;ZMYJ]R2A0
+R3
+S1
+R4
+w1684870203
+R16
+R17
+!i122 42
+L0 1 46
+R8
+r1
+!s85 0
+31
+!s108 1684874904.000000
+R19
+R20
+!i113 1
+R12
+R13
+vlab4_g14_p3
+R0
+R14
+!i10b 1
+!s100 C5Nf[74@K1Q7_bRc`fe_M1
+R2
+I?hTZNCVR<J_ZKY=DXlffF1
+R3
+S1
+R4
+R15
+8C:/modelsim_svs/lab4/lab4_g14_p3.sv
+FC:/modelsim_svs/lab4/lab4_g14_p3.sv
+!i122 294
+L0 6 46
+R8
+r1
+!s85 0
+31
+R18
+!s107 C:/modelsim_svs/lab4/lab4_g14_p3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab4/lab4_g14_p3.sv|
+!i113 1
+R12
+R13
+vneg_edge_dff
+R0
+R1
+!i10b 1
+!s100 mD`R92bH552cVKDDzS=ld1
+R2
+IzDhjTjaQL?IcnUkJ>VSEd2
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 296
+L0 26 4
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vpos_edge_dff
+R0
+R1
+!i10b 1
+!s100 aBZ378zK[PWFbVjPfigRN1
+R2
+Ikmmz0QM85B3G56V1fJJKO3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 296
+L0 20 4
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vripple_carry_adder
+R0
+R14
+!i10b 1
+!s100 DCU=nbki5MeS[z?<Y;mOi2
+R2
+I`3R`^F0BlMb4D3Fj^7RWc3
+R3
+S1
+R4
+R15
+R16
+R17
+!i122 292
+L0 38 16
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R12
+R13
+vsr_latch
+R0
+!s110 1685039637
+!i10b 1
+!s100 6d8:3f]7k6m@INJMK^:Y>0
+R2
+I7^N2aF@nfImT87MKh13n^1
+R3
+S1
+R4
+w1685039634
+R6
+R7
+!i122 230
+L0 1 11
+R8
+r1
+!s85 0
+31
+!s108 1685039637.000000
+R10
+R11
+!i113 1
+R12
+R13
+vtb_lab4_g14_p1
+R0
+R1
+!i10b 1
+!s100 hhU^^z9hD:PM:ka3LkRf41
+R2
+IKUC<HTO06bWXaJ1HY9Ydh0
+R3
+S1
+R4
+w1685040937
+8C:/modelsim_svs/lab4/tb_lab4_g14_p1.sv
+FC:/modelsim_svs/lab4/tb_lab4_g14_p1.sv
+!i122 297
+Z21 L0 8 25
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/modelsim_svs/lab4/tb_lab4_g14_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab4/tb_lab4_g14_p1.sv|
+!i113 1
+R12
+R13
+vtb_lab4_g14_p2
+R0
+R14
+!i10b 1
+!s100 5D:XGNCgZTVR;l<T;g]cF2
+R2
+IROWl@=NzP3:1C>dL_CHCL3
+R3
+S1
+R4
+R15
+8C:/modelsim_svs/lab4/tb_lab4_g14_p2.sv
+FC:/modelsim_svs/lab4/tb_lab4_g14_p2.sv
+!i122 293
+L0 8 19
+R8
+r1
+!s85 0
+31
+R18
+!s107 C:/modelsim_svs/lab4/tb_lab4_g14_p2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab4/tb_lab4_g14_p2.sv|
+!i113 1
+R12
+R13
+vtb_lab4_g14_p3
+R0
+R1
+!i10b 1
+!s100 E2?K7=JJD7MTjIJY2blfY1
+R2
+IezK=H`a?z3njzENlb]Y5[0
+R3
+S1
+R4
+R5
+8C:/modelsim_svs/lab4/tb_lab4_g14_p3.sv
+FC:/modelsim_svs/lab4/tb_lab4_g14_p3.sv
+!i122 295
+R21
+R8
+r1
+!s85 0
+31
+R18
+!s107 C:/modelsim_svs/lab4/tb_lab4_g14_p3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/modelsim_svs/lab4/tb_lab4_g14_p3.sv|
+!i113 1
+R12
+R13
